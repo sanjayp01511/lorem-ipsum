@@ -24,4 +24,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/sanjayp01511/lorem-ipsum/blob/main/LICENSE) file for details.
-## Visit Website - (Lorem Ipsum Generator)[https://lorem-ipsumm.com/]
+## Visit Website - [Lorem Ipsum Generator](https://lorem-ipsumm.com/)
