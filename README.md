@@ -2,6 +2,7 @@
 
 Welcome to the Lorem Ipsum Generator! This website allows you to generate various types of Lorem Ipsum text for your projects, designs, or content creation needs.
 
+
 ## Features
 
 - Generate different types of Lorem Ipsum text.
@@ -10,7 +11,7 @@ Welcome to the Lorem Ipsum Generator! This website allows you to generate variou
 
 ## Visit the Website
 
-Check out the live version of the Lorem Ipsum Generator: [lorem-ipsumm.com](https://lorem-ipsumm.com/)
+Check out the live version of the Lorem Ipsum Generator: [lorem ipsumm generator](https://lorem-ipsumm.com/)
 
 ## GitHub Repository
 
@@ -23,3 +24,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/sanjayp01511/lorem-ipsum/blob/main/LICENSE) file for details.
+## Visit Website - (Lorem Ipsum Generator)[https://lorem-ipsumm.com/]
